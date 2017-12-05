@@ -1,4 +1,6 @@
 # gravity-bubble
+Based on this assignment:
+
 Exercise: Your First Website
 05 DECEMBER 2017 by Mark Price
 You are going to build your very own fan website in pure HTML. Later you can choose to add CSS to it.
